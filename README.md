@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there am kirubel 👋
 
-<!--
-**kirusolo/kirusolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science graduate.
+- 📚 Pursuing a second bachelor's degree at Ca' Foscari University, Italy.
+- 💻 Full-stack developer.
 
-Here are some ideas to get you started:
+You can reach me at:
+- 📧 Email: kirubelendala15@gmail.com
+- 🌐 LinkedIn: LinkedIn Profile:(www.linkedin.com/in/kirubel-baye-1b92b5256)
+- ⚡ Fun fact: Whitespace Programming: There's a programming language called "Whitespace" where the only valid characters are spaces, tabs, and line breaks. It's a fun and challenging way to write code without traditional programming symbols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and collaborate on exciting projects!
+
